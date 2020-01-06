@@ -1,4 +1,6 @@
 # hello-world
 test
 I'm learning about coding recentrly 
-and it's fun.
+it's fun.
+
+And I live with two cats whose names are captain and marble.
